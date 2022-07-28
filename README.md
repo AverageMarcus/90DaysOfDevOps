@@ -18,6 +18,13 @@ The quickest way to get in touch is going to be via Twitter, my handle is [@Mich
 
 ## Progress
 
+<details>
+ <summary>
+
+[![](logo.png)](#)
+
+ </summary>
+
 - [✔️] ♾️ 1 > [Introduction](Days/day01.md)
 
 ### What is and why do we use DevOps
@@ -147,6 +154,9 @@ The quickest way to get in touch is going to be via Twitter, my handle is [@Mich
 - [✔️] 🗃️ 88 > [Application Focused Backups](Days/day88.md)
 - [✔️] 🗃️ 89 > [Disaster Recovery](Days/day89.md)
 - [✔️] 🗃️ 90 > [Data & Application Mobility](Days/day90.md)
+
+
+</details>
 
 ## License
 
